@@ -42,4 +42,27 @@ Horus makes use of 2 Machine Learning/Deep Learning models; One to identify the 
 Tech Stack
 1. For the mobile app, we use Flutter(Dart)
 2. To train the model we use Python(Tensorflow, scikit-learn, librosa, opencv ,etc.)
-   
+
+
+Project Structure
+```
+lib/
+├── main.dart
+├── screens/
+│   ├── home_page.dart
+│   ├── photo_capture_page.dart
+│   ├── sound_capture_page.dart
+│   ├── bird_guide_page.dart
+│   ├── profile_page.dart
+│   ├── results_page.dart
+│   ├── bird_detail_page.dart
+│   ├── settings_page.dart
+│   ├── about_page.dart
+│   ├── history_page.dart
+│   ├── favorites_page.dart
+│   └── help_page.dart
+├── widgets/
+│   └── main_screen.dart
+└── theme/
+    └── app_theme.dart
+```
