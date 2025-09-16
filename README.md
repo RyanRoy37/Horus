@@ -4,6 +4,12 @@ HORUS is a Flutter-based mobile app built for bird watchers that helps you **ide
 
 ---
 
+<video src="Video Demo.mp4" controls width="600"></video>
+
+
+
+
+---
 ## Integration with OSEA Model
 
 HORUS leverages the **OSEA Mobile** offline bird identification system, which uses pretrained AI models for detection and classification:
