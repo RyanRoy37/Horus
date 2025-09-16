@@ -1,0 +1,795 @@
+{
+  "birds": [
+    {
+  "common_name": "Ashy Prinia",
+  "scientific_name": "Prinia socialis",
+  "family": "Cisticolidae",
+  "order": "Passeriformes",
+  "size": {
+    "length": "13–14 cm",
+    "wingspan": "Approximately 15–18 cm"
+  },
+  "habitat": "Grasslands, shrubs, gardens, agricultural lands, and urban parks",
+  "geographic_range": "Indian subcontinent (India, Nepal, Bangladesh, Sri Lanka, and parts of Pakistan)",
+  "migratory_pattern": "Resident (non-migratory)",
+  "altitude_range": "Up to 1,800 m",
+  "color_markings": {
+    "male": "Grey upperparts, rufous flanks, creamy underparts, black bill, and a long graduated tail often held upright",
+    "female": "Similar to male but paler overall and slightly duller flanks"
+  },
+  "beak": {
+    "shape": "Short, slender, slightly curved",
+    "color": "Dark brown to black"
+  },
+  "call_types": ["Sharp 'chee-chee' notes", "rasping trills", "high-pitched chirps"],
+  "audio_clip": "https://xeno-canto.org/738764/download",  
+  "call_timing": "Most active during early morning and late afternoon, especially in breeding season",
+  "primary_diet": ["Insects", "spiders", "small caterpillars"],
+  "local_sightings": [
+    "Sanjay Gandhi National Park, Mumbai",
+    "Lodhi Gardens, Delhi",
+    "Cubbon Park, Bengaluru"
+  ],
+  "imageUrl": "ashy_prinia.jpg"
+}
+,
+    {
+  "common_name": "Asian Koel",
+  "scientific_name": "Eudynamys scolopaceus",
+  "family": "Cuculidae",
+  "order": "Cuculiformes",
+  "size": {
+    "length": "39–46 cm",
+    "wingspan": "Up to 50 cm"
+  },
+  "habitat": "Urban gardens, forests, groves, orchards, and farmlands",
+  "geographic_range": "South Asia, Southeast Asia, and parts of China and Australia",
+  "migratory_pattern": "Partially migratory; mostly resident but some populations migrate seasonally",
+  "altitude_range": "Up to 1,500 m",
+  "color_markings": {
+    "male": "Glossy black with red eyes and greenish sheen on feathers",
+    "female": "Brown with white spots and streaks, red eyes, and barred underparts"
+  },
+  "beak": {
+    "shape": "Slightly curved, medium-length",
+    "color": "Greenish grey"
+  },
+  "call_types": ["Distinct repetitive 'koo-ooo' call", "sharp shrieks", "ascending whistles"],
+  "audio_clip": "https://xeno-canto.org/740128/download",
+  "call_timing": "Most vocal during early morning and breeding season (spring and summer)",
+  "primary_diet": ["Fruits", "berries", "insects", "eggs and nestlings of host birds"],
+  "local_sightings": [
+    "Delhi Ridge Forest",
+    "Bharatpur Bird Sanctuary",
+    "Botanical Gardens, Kolkata"
+  ],
+  "imageUrl": "asian_koel.jpg"
+},
+{
+  "common_name": "Black Drongo",
+  "scientific_name": "Dicrurus macrocercus",
+  "family": "Dicruridae",
+  "order": "Passeriformes",
+  "size": {
+    "length": "28–30 cm",
+    "wingspan": "Up to 40 cm"
+  },
+  "habitat": "Open agricultural fields, grasslands, urban areas, and forest edges",
+  "geographic_range": "South Asia, Southeast Asia, parts of China and Afghanistan",
+  "migratory_pattern": "Partially migratory; northern populations migrate south in winter",
+  "altitude_range": "Up to 2,000 m",
+  "color_markings": {
+    "male": "Glossy black with a deeply forked tail and red eyes",
+    "female": "Similar to male but slightly duller black plumage"
+  },
+  "beak": {
+    "shape": "Short, strong, and slightly hooked",
+    "color": "Black"
+  },
+  "call_types": ["Harsh chattering", "sharp alarm calls", "mimicry of other birds"],
+  "audio_clip": "https://xeno-canto.org/716801/download",
+  "call_timing": "Throughout the day, especially during territorial displays and breeding season",
+  "primary_diet": ["Insects", "beetles", "wasps", "dragonflies", "small lizards"],
+  "local_sightings": [
+    "Kaziranga National Park",
+    "Rural farmlands in Punjab",
+    "Bannerghatta Biological Park, Bengaluru"
+  ],
+  "imageUrl": "black_drongo.jpg"
+}
+,
+{
+  "common_name": "Black Kite",
+  "scientific_name": "Milvus migrans",
+  "family": "Accipitridae",
+  "order": "Accipitriformes",
+  "size": {
+    "length": "48–60 cm",
+    "wingspan": "130–155 cm"
+  },
+  "habitat": "Urban areas, wetlands, open woodlands, farmland, garbage dumps",
+  "geographic_range": "Europe, Asia, Africa, and Australia (widely distributed)",
+  "migratory_pattern": "Partially migratory; northern populations migrate south during winter",
+  "altitude_range": "Up to 4,000 m",
+  "color_markings": {
+    "male": "Dark brown plumage with lighter underparts and forked tail",
+    "female": "Similar to male, slightly larger with broader wings"
+  },
+  "beak": {
+    "shape": "Hooked and strong",
+    "color": "Yellow base with black tip"
+  },
+  "call_types": ["Whinnying or mewing call", "sharp 'ki-ki-ki'", "whistles"],
+  "audio_clip": "https://xeno-canto.org/740267/download",
+  "call_timing": "Most frequent in the morning and during flight displays, especially around breeding season",
+  "primary_diet": ["Carrion", "small mammals", "fish", "birds", "insects", "human refuse"],
+  "local_sightings": [
+    "Yamuna Biodiversity Park, Delhi",
+    "Urban rooftops and dumpsites in Mumbai",
+    "Periyar Tiger Reserve, Kerala"
+  ],
+  "imageUrl": "black_kite.jpg"
+}
+,
+{
+  "common_name": "Rock Dove",
+  "scientific_name": "Columba livia",
+  "family": "Columbidae",
+  "order": "Columbiformes",
+  "size": {
+    "length": "29–37 cm",
+    "wingspan": "62–72 cm"
+  },
+  "habitat": "Urban areas, cliffs, farmland, parks, and open country",
+  "geographic_range": "Worldwide (native to Europe, North Africa, and South Asia; introduced globally)",
+  "migratory_pattern": "Non-migratory",
+  "altitude_range": "Up to 3,000 m",
+  "color_markings": {
+    "male": "Bluish-gray with two black wing bars, iridescent green-purple neck, dark tail band",
+    "female": "Similar to male, slightly duller neck iridescence"
+  },
+  "beak": {
+    "shape": "Short and slender with a fleshy cere",
+    "color": "Dark grey to black with whitish cere"
+  },
+  "call_types": ["Soft cooing", "guttural growls", "wing claps during flight"],
+  "audio_clip": "https://xeno-canto.org/682262/download",
+  "call_timing": "Throughout the day, especially early morning and around nest sites",
+  "primary_diet": ["Seeds", "grains", "fruits", "human food scraps"],
+  "local_sightings": [
+    "Railway stations and city markets across India",
+    "Gateway of India, Mumbai",
+    "Connaught Place, Delhi"
+  ],
+  "imageUrl": "rock_dove.jpg"
+}
+,
+{
+  "common_name": "Brahminy Kite",
+  "scientific_name": "Haliastur indus",
+  "family": "Accipitridae",
+  "order": "Accipitriformes",
+  "size": {
+    "length": "45–51 cm",
+    "wingspan": "110–125 cm"
+  },
+  "habitat": "Coastal areas, wetlands, rivers, lakes, mangroves, and sometimes urban regions",
+  "geographic_range": "Indian subcontinent, Southeast Asia, and northern Australia",
+  "migratory_pattern": "Largely resident with some local movements",
+  "altitude_range": "Up to 1,500 m",
+  "color_markings": {
+    "male": "Chestnut body with contrasting white head and breast, yellow legs",
+    "female": "Similar to male, slightly larger in size"
+  },
+  "beak": {
+    "shape": "Hooked and sharp",
+    "color": "Yellowish with dark tip"
+  },
+  "call_types": ["High-pitched 'ki-eeeeee' whistle", "repetitive mewing calls"],
+  "audio_clip": "https://xeno-canto.org/740267/download",  
+  "call_timing": "Often heard soaring during the day, especially near water bodies and nests",
+  "primary_diet": ["Fish", "crustaceans", "small mammals", "carrion"],
+  "local_sightings": [
+    "Chilika Lake, Odisha",
+    "Backwaters of Kerala",
+    "Sundarbans National Park"
+  ],
+  "imageUrl": "brahminy_kite.jpg"
+}
+,
+{
+  "common_name": "Common Hoopoe",
+  "scientific_name": "Upupa epops",
+  "family": "Upupidae",
+  "order": "Bucerotiformes",
+  "size": {
+    "length": "25–29 cm",
+    "wingspan": "44–48 cm"
+  },
+  "habitat": "Open grasslands, savannas, farmlands, orchards, and suburban gardens",
+  "geographic_range": "Europe, Asia, North Africa, and Sub-Saharan Africa",
+  "migratory_pattern": "Partial migrant; some populations migrate seasonally, especially in colder regions",
+  "altitude_range": "Up to 2,500 m",
+  "color_markings": {
+    "male": "Cinnamon head and body, striking black-and-white wings and tail, long crest often raised",
+    "female": "Similar to male but slightly duller plumage"
+  },
+  "beak": {
+    "shape": "Long, slender, and slightly down-curved",
+    "color": "Black or dark brown"
+  },
+  "call_types": ["Soft 'oop-oop-oop' calls", "short grunts and rasping sounds"],
+  "audio_clip": "https://xeno-canto.org/740268/download",
+  "call_timing": "Primarily during breeding season and early morning hours",
+  "primary_diet": ["Insects", "grubs", "small reptiles", "earthworms"],
+  "local_sightings": [
+    "Sultanpur Bird Sanctuary, Haryana",
+    "Outskirts of Jaipur, Rajasthan",
+    "Rural areas of Maharashtra"
+  ],
+  "imageUrl": "common_hoopoe.jpg"
+}
+,
+{
+  "common_name": "Common Myna",
+  "scientific_name": "Acridotheres tristis",
+  "family": "Sturnidae",
+  "order": "Passeriformes",
+  "size": {
+    "length": "23–26 cm",
+    "wingspan": "40 cm (approx.)"
+  },
+  "habitat": "Urban areas, farmlands, gardens, open woodlands, and near human settlements",
+  "geographic_range": "South Asia (native); introduced to Australia, the Middle East, South Africa, and many Pacific islands",
+  "migratory_pattern": "Non-migratory",
+  "altitude_range": "Up to 2,000 m",
+  "color_markings": {
+    "male": "Brown body, black hooded head, bright yellow eye patches, legs, and beak",
+    "female": "Similar to male; sexes are visually indistinguishable"
+  },
+  "beak": {
+    "shape": "Stout, slightly curved",
+    "color": "Bright yellow"
+  },
+  "call_types": ["Varied whistles", "squawks", "grating calls", "mimicry"],
+  "audio_clip": "https://xeno-canto.org/740269/download",
+  "call_timing": "All day long, especially active at dawn and dusk",
+  "primary_diet": ["Insects", "fruits", "grains", "leftovers", "small reptiles"],
+  "local_sightings": [
+    "Connaught Place, Delhi",
+    "Cubbon Park, Bengaluru",
+    "Streets and markets of Kolkata"
+  ],
+  "imageUrl": "common_myna.jpg"
+}
+,
+{
+  "common_name": "Common Coot",
+  "scientific_name": "Fulica atra",
+  "family": "Rallidae",
+  "order": "Gruiformes",
+  "size": {
+    "length": "36–42 cm",
+    "wingspan": "70–80 cm"
+  },
+  "habitat": "Lakes, ponds, marshes, slow-moving rivers, reservoirs, and wetlands with aquatic vegetation",
+  "geographic_range": "Europe, Asia, North Africa, Australia, and parts of New Zealand",
+  "migratory_pattern": "Partially migratory; northern populations move south in winter",
+  "altitude_range": "Up to 2,500 m",
+  "color_markings": {
+    "male": "Slate-black body with white frontal shield and bill, red eyes",
+    "female": "Identical to male, but slightly smaller in size"
+  },
+  "beak": {
+    "shape": "Conical and pointed",
+    "color": "White"
+  },
+  "call_types": ["Sharp 'kow-kow' calls", "grating or squealing alarm calls", "varied honks"],
+  "audio_clip": "https://xeno-canto.org/740270/download",
+  "call_timing": "Most vocal during dawn and dusk, especially in breeding season",
+  "primary_diet": ["Aquatic plants", "algae", "insects", "small fish", "mollusks"],
+  "local_sightings": [
+    "Okhla Bird Sanctuary, Delhi",
+    "Bharatpur (Keoladeo) National Park",
+    "Hussain Sagar Lake, Hyderabad"
+  ],
+  "imageUrl": "common_coot.jpg"
+}
+,
+{
+  "common_name": "Green Bee-eater",
+  "scientific_name": "Merops orientalis",
+  "family": "Meropidae",
+  "order": "Coraciiformes",
+  "size": {
+    "length": "16–18 cm (excluding tail streamers)",
+    "wingspan": "25–30 cm"
+  },
+  "habitat": "Open woodlands, scrublands, farmlands, grasslands, and urban gardens",
+  "geographic_range": "Africa, Middle East, and South Asia (widely spread in India and surrounding countries)",
+  "migratory_pattern": "Largely resident with some local seasonal movements",
+  "altitude_range": "Up to 2,000 m",
+  "color_markings": {
+    "male": "Bright green plumage, golden crown, black eye stripe, and long central tail streamers",
+    "female": "Similar to male, slightly shorter tail streamers"
+  },
+  "beak": {
+    "shape": "Long, slender, and slightly down-curved",
+    "color": "Black"
+  },
+  "call_types": ["Soft trills", "high-pitched chirps", "rapid 'tit-tit-tit' calls"],
+  "audio_clip": "https://xeno-canto.org/740271/download",
+  "call_timing": "Frequently calls during flight, foraging, and social interactions — most active at dawn and dusk",
+  "primary_diet": ["Bees", "wasps", "dragonflies", "butterflies", "other flying insects"],
+  "local_sightings": [
+    "Ranthambhore National Park",
+    "Rural fields of Uttar Pradesh",
+    "Gandhinagar outskirts, Gujarat"
+  ],
+  "imageUrl": "green_bee_eater.jpg"
+}
+,
+{
+  "common_name": "House Crow",
+  "scientific_name": "Corvus splendens",
+  "family": "Corvidae",
+  "order": "Passeriformes",
+  "size": {
+    "length": "40–42 cm",
+    "wingspan": "85–100 cm"
+  },
+  "habitat": "Urban areas, villages, coastal regions, farmlands, and garbage dumps",
+  "geographic_range": "South Asia (native), introduced in East Africa, Middle East, Southeast Asia, and coastal areas worldwide",
+  "migratory_pattern": "Non-migratory",
+  "altitude_range": "Up to 2,000 m",
+  "color_markings": {
+    "male": "Black head, wings, and tail; greyish neck and breast",
+    "female": "Same as male; sexes are indistinguishable"
+  },
+  "beak": {
+    "shape": "Strong, thick, and slightly curved",
+    "color": "Black"
+  },
+  "call_types": ["Harsh 'kaaw-kaaw'", "caws", "alarm calls", "grating social chatter"],
+  "audio_clip": "https://xeno-canto.org/740272/download",
+  "call_timing": "All day long, especially active during early morning and around food sources",
+  "primary_diet": ["Food scraps", "grains", "insects", "small animals", "eggs", "fruits", "garbage"],
+  "local_sightings": [
+    "All major Indian cities (Mumbai, Delhi, Chennai)",
+    "Fishing harbors and coastal villages",
+    "Railway stations and marketplaces"
+  ],
+  "imageUrl": "house_crow.jpg"
+}
+,
+{
+  "common_name": "House Sparrow",
+  "scientific_name": "Passer domesticus",
+  "family": "Passeridae",
+  "order": "Passeriformes",
+  "size": {
+    "length": "14–16 cm",
+    "wingspan": "19–25 cm"
+  },
+  "habitat": "Urban and suburban areas, farmlands, parks, gardens, and villages",
+  "geographic_range": "Europe, Asia, Africa, the Americas, and Australia (introduced worldwide)",
+  "migratory_pattern": "Non-migratory",
+  "altitude_range": "Up to 3,000 m",
+  "color_markings": {
+    "male": "Grey crown, chestnut nape, black bib, grey underparts, and brown wings with black streaks",
+    "female": "Dull brown overall with lighter underparts and no black bib"
+  },
+  "beak": {
+    "shape": "Short and conical",
+    "color": "Black (breeding male), yellowish or brownish in female and non-breeding male"
+  },
+  "call_types": ["Cheerful chirps", "short 'chirrup' sounds", "social chattering"],
+  "audio_clip": "https://xeno-canto.org/740273/download",
+  "call_timing": "Throughout the day, especially active during early morning and late afternoon",
+  "primary_diet": ["Grains", "seeds", "insects", "food scraps"],
+  "local_sightings": [
+    "Residential neighborhoods across India",
+    "Temple courtyards and rooftops",
+    "Public parks and schoolyards"
+  ],
+  "imageUrl": "house_sparrow.jpg"
+}
+,
+{
+  "common_name": "Indian Pond Heron",
+  "scientific_name": "Ardeola grayii",
+  "family": "Ardeidae",
+  "order": "Pelecaniformes",
+  "size": {
+    "length": "40–45 cm",
+    "wingspan": "75–90 cm"
+  },
+  "habitat": "Freshwater wetlands, ponds, lakes, riversides, paddy fields, and urban water bodies",
+  "geographic_range": "Indian subcontinent including India, Nepal, Sri Lanka, Bangladesh, and Myanmar",
+  "migratory_pattern": "Largely resident with some local seasonal movement",
+  "altitude_range": "Up to 1,800 m",
+  "color_markings": {
+    "male": "Buff-brown body with streaked neck in non-breeding plumage; striking white wings visible during flight",
+    "female": "Same as male; sexes look alike"
+  },
+  "beak": {
+    "shape": "Long, pointed, dagger-like",
+    "color": "Yellow with dark tip"
+  },
+  "call_types": ["Harsh croaks", "guttural squawks"],
+  "audio_clip": "https://xeno-canto.org/740274/download",
+  "call_timing": "Usually quiet, but may call when disturbed or during flight",
+  "primary_diet": ["Fish", "frogs", "insects", "crustaceans", "small reptiles"],
+  "local_sightings": [
+    "Sewri Mudflats, Mumbai",
+    "Paddy fields near Coimbatore",
+    "Yamuna floodplains, Delhi"
+  ],
+  "imageUrl": "indian_pond_heron.jpg"
+}
+,
+{
+  "common_name": "Indian Robin",
+  "scientific_name": "Copsychus fulicatus",
+  "family": "Muscicapidae",
+  "order": "Passeriformes",
+  "size": {
+    "length": "15–16 cm",
+    "wingspan": "20–25 cm"
+  },
+  "habitat": "Scrublands, open forests, gardens, rocky terrains, and urban areas",
+  "geographic_range": "Indian subcontinent (India, Nepal, Sri Lanka, Bangladesh, and parts of Pakistan)",
+  "migratory_pattern": "Non-migratory",
+  "altitude_range": "Up to 2,000 m",
+  "color_markings": {
+    "male": "Glossy black or dark brown (depending on region), white shoulder patch, rich chestnut under tail coverts",
+    "female": "Dark brown upperparts, pale underparts, chestnut under tail coverts, no white shoulder patch"
+  },
+  "beak": {
+    "shape": "Thin, straight, slightly curved at tip",
+    "color": "Black"
+  },
+  "call_types": ["Melodious whistles", "short chirps", "sharp 'tac-tac' alarm calls"],
+  "audio_clip": "https://xeno-canto.org/740275/download",
+  "call_timing": "Most active during early morning and late afternoon, especially in breeding season",
+  "primary_diet": ["Insects", "ants", "termites", "small invertebrates"],
+  "local_sightings": [
+    "Rocks and shrubs around Hampi, Karnataka",
+    "Dry fields in Rajasthan",
+    "Garden edges in Hyderabad"
+  ],
+  "imageUrl": "indian_robin.jpg"
+}
+,
+{
+  "common_name": "Indian Roller",
+  "scientific_name": "Coracias benghalensis",
+  "family": "Coraciidae",
+  "order": "Coraciiformes",
+  "size": {
+    "length": "26–27 cm",
+    "wingspan": "65–74 cm"
+  },
+  "habitat": "Open grasslands, cultivated lands, light forests, roadside wires, and urban gardens",
+  "geographic_range": "Indian subcontinent including India, Sri Lanka, Nepal, Bangladesh, and parts of West Asia",
+  "migratory_pattern": "Largely resident with some local movements",
+  "altitude_range": "Up to 1,500 m",
+  "color_markings": {
+    "male": "Bright blue wings and tail, brownish chest, greenish-blue head, and purplish throat",
+    "female": "Similar to male, with slightly duller plumage"
+  },
+  "beak": {
+    "shape": "Strong, slightly hooked",
+    "color": "Black"
+  },
+  "call_types": ["Harsh 'chack-chack'", "screeching calls", "rasping sounds during display flights"],
+  "audio_clip": "https://xeno-canto.org/740276/download",
+  "call_timing": "Most vocal at dawn and during aerial display flights in breeding season",
+  "primary_diet": ["Insects", "grasshoppers", "beetles", "frogs", "lizards", "small snakes"],
+  "local_sightings": [
+    "Ranthambhore and Sariska reserves",
+    "Fields along NH highways",
+    "Open grounds around Varanasi and Jaipur"
+  ],
+  "imageUrl": "indian_roller.jpg"
+}
+,
+{
+  "common_name": "Little Grebe",
+  "scientific_name": "Tachybaptus ruficollis",
+  "family": "Podicipedidae",
+  "order": "Podicipediformes",
+  "size": {
+    "length": "23–29 cm",
+    "wingspan": "40–45 cm"
+  },
+  "habitat": "Freshwater lakes, ponds, marshes, reservoirs, and slow-moving rivers with dense aquatic vegetation",
+  "geographic_range": "Europe, Africa, Asia, and parts of Indonesia and Papua New Guinea",
+  "migratory_pattern": "Resident in warm areas, migratory in colder regions",
+  "altitude_range": "Up to 2,500 m",
+  "color_markings": {
+    "male": "Breeding plumage: dark brown body with rufous neck and cheeks, yellow gape; non-breeding: duller brown",
+    "female": "Similar to male; both sexes appear alike"
+  },
+  "beak": {
+    "shape": "Short, pointed, and straight",
+    "color": "Black with yellow gape in breeding season"
+  },
+  "call_types": ["Soft trills", "whinnying calls", "sharp squeaks"],
+  "audio_clip": "https://xeno-canto.org/740277/download",
+  "call_timing": "Most vocal during breeding season, especially early mornings and evenings",
+  "primary_diet": ["Aquatic insects", "small fish", "crustaceans", "snails"],
+  "local_sightings": [
+    "Okhla Bird Sanctuary, Delhi",
+    "Purbasthali wetlands, West Bengal",
+    "Ranganathittu Bird Sanctuary, Karnataka"
+  ],
+  "imageUrl": "little_grebe.jpg"
+}
+,
+{
+  "common_name": "Purple Swamphen",
+  "scientific_name": "Porphyrio poliocephalus",
+  "family": "Rallidae",
+  "order": "Gruiformes",
+  "size": {
+    "length": "45–50 cm",
+    "wingspan": "90–100 cm"
+  },
+  "habitat": "Freshwater wetlands, marshes, ponds with floating vegetation, lakesides, and rice fields",
+  "geographic_range": "Indian subcontinent, Southeast Asia, Middle East, and parts of southern Europe and Australasia",
+  "migratory_pattern": "Largely resident with local seasonal movements",
+  "altitude_range": "Up to 1,500 m",
+  "color_markings": {
+    "male": "Rich purple-blue body, red bill and frontal shield, long reddish legs, white under tail",
+    "female": "Similar to male; females are slightly smaller"
+  },
+  "beak": {
+    "shape": "Short, thick, and conical",
+    "color": "Bright red"
+  },
+  "call_types": ["Loud, harsh screeches", "grunts", "honks", "repetitive squawks"],
+  "audio_clip": "https://xeno-canto.org/740278/download",
+  "call_timing": "Throughout the day, especially active during dawn, dusk, and territorial disputes",
+  "primary_diet": ["Aquatic plants", "insects", "small mollusks", "seeds"],
+  "local_sightings": [
+    "Kolleru Lake, Andhra Pradesh",
+    "Vedanthangal Bird Sanctuary, Tamil Nadu",
+    "East Kolkata Wetlands, West Bengal"
+  ],
+  "imageUrl": "purple_waterhen.jpg"
+}
+,
+{
+  "common_name": "Red-wattled Lapwing",
+  "scientific_name": "Vanellus indicus",
+  "family": "Charadriidae",
+  "order": "Charadriiformes",
+  "size": {
+    "length": "32–35 cm",
+    "wingspan": "75–85 cm"
+  },
+  "habitat": "Open grasslands, farmlands, riverbanks, wetlands, and urban edges",
+  "geographic_range": "South Asia, Southeast Asia, parts of the Middle East",
+  "migratory_pattern": "Mostly resident with some local seasonal movements",
+  "altitude_range": "Up to 1,500 m",
+  "color_markings": {
+    "male": "Black head, chest, and neck; brown back; white underparts; red eye ring and facial wattles",
+    "female": "Same as male"
+  },
+  "beak": {
+    "shape": "Medium-length and pointed",
+    "color": "Red with black tip"
+  },
+  "call_types": ["Loud 'did-he-do-it' call", "repetitive alarm calls"],
+  "audio_clip": "https://xeno-canto.org/740279/download",
+  "call_timing": "Most vocal during breeding season and at dusk or night",
+  "primary_diet": ["Insects", "worms", "mollusks"],
+  "local_sightings": [
+    "Yamuna floodplains, Delhi",
+    "Banni Grasslands, Gujarat",
+    "Rural fields of Punjab"
+  ],
+  "imageUrl": "red_wattled_lapwing.jpg"
+}
+,
+{
+  "common_name": "Red-whiskered Bulbul",
+  "scientific_name": "Pycnonotus jocosus",
+  "family": "Pycnonotidae",
+  "order": "Passeriformes",
+  "size": {
+    "length": "20–22 cm",
+    "wingspan": "25–30 cm"
+  },
+  "habitat": "Gardens, forest edges, urban parks, and agricultural areas",
+  "geographic_range": "South and Southeast Asia; introduced to many tropical regions worldwide",
+  "migratory_pattern": "Non-migratory",
+  "altitude_range": "Up to 2,000 m",
+  "color_markings": {
+    "male": "White body, black crest, red patch below eyes (whisker), red vent",
+    "female": "Same as male"
+  },
+  "beak": {
+    "shape": "Short, straight",
+    "color": "Black"
+  },
+  "call_types": ["Cheerful whistles", "chirping", "melodic phrases"],
+  "audio_clip": "https://xeno-canto.org/740280/download",
+  "call_timing": "Active at dawn and dusk",
+  "primary_diet": ["Fruits", "nectar", "insects", "seeds"],
+  "local_sightings": [
+    "Cubbon Park, Bengaluru",
+    "Shantiniketan gardens, West Bengal",
+    "Residential areas of Chennai"
+  ],
+  "imageUrl": "red_whiskered_bulbul.jpg"
+}
+,
+{
+  "common_name": "Rose-ringed Parakeet",
+  "scientific_name": "Psittacula krameri",
+  "family": "Psittaculidae",
+  "order": "Psittaciformes",
+  "size": {
+    "length": "40–42 cm (including tail)",
+    "wingspan": "45–50 cm"
+  },
+  "habitat": "Urban parks, gardens, farmlands, woodlands",
+  "geographic_range": "Africa and South Asia; introduced to Europe and the Middle East",
+  "migratory_pattern": "Non-migratory",
+  "altitude_range": "Up to 2,000 m",
+  "color_markings": {
+    "male": "Bright green body, red bill, black and rose-colored neck ring",
+    "female": "Similar but lacks or has a faint neck ring"
+  },
+  "beak": {
+    "shape": "Strong, curved",
+    "color": "Red"
+  },
+  "call_types": ["Loud screeches", "squawks"],
+  "audio_clip": "https://xeno-canto.org/740281/download",
+  "call_timing": "Throughout the day, especially at roosting times",
+  "primary_diet": ["Fruits", "grains", "nuts", "buds"],
+  "local_sightings": [
+    "Lodhi Gardens, Delhi",
+    "Urban rooftops across India",
+    "Mysore Palace grounds"
+  ],
+  "imageUrl": "rose_ringed_parakeet.jpg"
+}
+,
+{
+  "common_name": "Shikra",
+  "scientific_name": "Accipiter badius",
+  "family": "Accipitridae",
+  "order": "Accipitriformes",
+  "size": {
+    "length": "26–30 cm",
+    "wingspan": "50–65 cm"
+  },
+  "habitat": "Urban areas, woodlands, farmlands, and gardens",
+  "geographic_range": "South Asia, Middle East, and parts of Africa",
+  "migratory_pattern": "Largely resident with some local movement",
+  "altitude_range": "Up to 2,000 m",
+  "color_markings": {
+    "male": "Grey upperparts, rufous barring on underparts, red eyes",
+    "female": "Browner and larger, yellow-orange eyes"
+  },
+  "beak": {
+    "shape": "Hooked",
+    "color": "Black with yellow cere"
+  },
+  "call_types": ["High-pitched 'kik-kik-kik'", "sharp cries"],
+  "audio_clip": "https://xeno-canto.org/740282/download",
+  "call_timing": "During flight, hunting, and in breeding season",
+  "primary_diet": ["Small birds", "lizards", "rodents", "insects"],
+  "local_sightings": [
+    "Delhi Ridge Forest",
+    "Bannerghatta outskirts, Bengaluru",
+    "Rural fields of Rajasthan"
+  ],
+  "imageUrl": "shikra.jpg"
+}
+,
+{
+  "common_name": "Spotted Owlet",
+  "scientific_name": "Athene brama",
+  "family": "Strigidae",
+  "order": "Strigiformes",
+  "size": {
+    "length": "19–21 cm",
+    "wingspan": "45–55 cm"
+  },
+  "habitat": "Open fields, farmlands, urban areas, ruins, and groves",
+  "geographic_range": "Indian subcontinent and Southeast Asia",
+  "migratory_pattern": "Non-migratory",
+  "altitude_range": "Up to 2,000 m",
+  "color_markings": {
+    "male": "Brown body with white spots and bars, yellow eyes",
+    "female": "Same as male"
+  },
+  "beak": {
+    "shape": "Short, hooked",
+    "color": "Greenish-yellow"
+  },
+  "call_types": ["Soft screeches", "chattering trills", "'cheevak-cheevak' sounds"],
+  "audio_clip": "https://xeno-canto.org/740283/download",
+  "call_timing": "Nocturnal, vocal at dusk and early night",
+  "primary_diet": ["Insects", "rodents", "small birds", "reptiles"],
+  "local_sightings": [
+    "Agra Fort walls",
+    "Tree hollows in Pune",
+    "Old buildings in Hyderabad"
+  ],
+  "imageUrl": "spotted_owlet.jpg"
+}
+,
+{
+  "common_name": "White-cheeked Barbet",
+  "scientific_name": "Psilopogon viridis",
+  "family": "Megalaimidae",
+  "order": "Piciformes",
+  "size": {
+    "length": "20–22 cm",
+    "wingspan": "30–35 cm"
+  },
+  "habitat": "Evergreen and moist deciduous forests, gardens, and orchards",
+  "geographic_range": "Peninsular India (Western Ghats and surrounding regions)",
+  "migratory_pattern": "Non-migratory",
+  "altitude_range": "Up to 1,800 m",
+  "color_markings": {
+    "male": "Green body, white cheek patch, streaked brown head",
+    "female": "Same as male"
+  },
+  "beak": {
+    "shape": "Stout and broad",
+    "color": "Yellowish brown"
+  },
+  "call_types": ["Monotonous 'kutroo-kutroo' call", "fast clicking sounds"],
+  "audio_clip": "https://xeno-canto.org/740284/download",
+  "call_timing": "Mostly during mornings and breeding season",
+  "primary_diet": ["Fruits", "figs", "nectar", "insects"],
+  "local_sightings": [
+    "Lalbagh Botanical Garden, Bengaluru",
+    "Coffee estates in Coorg",
+    "KBR Park, Hyderabad"
+  ],
+  "imageUrl": "white_cheeked_barbet.jpg"
+}
+,
+{
+  "common_name": "White-throated Kingfisher",
+  "scientific_name": "Halcyon smyrnensis",
+  "family": "Alcedinidae",
+  "order": "Coraciiformes",
+  "size": {
+    "length": "27–28 cm",
+    "wingspan": "40–45 cm"
+  },
+  "habitat": "Near water bodies, wetlands, farmlands, gardens, and urban areas",
+  "geographic_range": "Indian subcontinent, Southeast Asia, and parts of the Middle East",
+  "migratory_pattern": "Non-migratory",
+  "altitude_range": "Up to 2,000 m",
+  "color_markings": {
+    "male": "Bright blue wings and back, white throat and chest, chestnut head and belly, large red bill",
+    "female": "Same as male"
+  },
+  "beak": {
+    "shape": "Large and dagger-like",
+    "color": "Bright red"
+  },
+  "call_types": ["Loud 'kek-kek-kek'", "shrill whistles"],
+  "audio_clip": "https://xeno-canto.org/740285/download",
+  "call_timing": "Most vocal during dawn, dusk, and when perched",
+  "primary_diet": ["Fish", "insects", "frogs", "small reptiles", "crabs"],
+  "local_sightings": [
+    "Chilika Lake, Odisha",
+    "Vembanad backwaters, Kerala",
+    "Urban gardens and wetlands across India"
+  ],
+  "imageUrl": "white_throated_kingfisher.jpg"
+
+} 
+  ]
+}
